@@ -126,9 +126,9 @@
     <!--</mailingLists>-->
 
     <scm>
-        <connection>scm:git:https://github.com/ballerinalang/ballerina-parent.git</connection>
-        <url>https://github.com/ballerinalang/ballerina-parent.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/ballerina-parent.git</developerConnection>
+        <connection>scm:git:https://github.com/isurusuranga/isuruwi-common.git</connection>
+        <url>https://github.com/isurusuranga/isuruwi-common.git</url>
+        <developerConnection>scm:git:https://github.com/isurusuranga/isuruwi-common.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
@@ -855,7 +855,7 @@
         <wso2.maven.compiler.source>1.8</wso2.maven.compiler.source>
         <wso2.maven.compiler.target>1.8</wso2.maven.compiler.target>
         <sourceReleaseAssemblyDescriptor>source-release</sourceReleaseAssemblyDescriptor>
-        <project.scm.id>my-scm-server</project.scm.id>
+        <project.scm.id>test-scm-server</project.scm.id>
 
         <!-- Maven plugin versions -->
         <maven.antrun.plugin.version>1.8</maven.antrun.plugin.version>

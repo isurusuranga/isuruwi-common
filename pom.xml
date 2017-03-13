@@ -26,14 +26,14 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
-            <name>Ballerina Developer</name>
-            <email>ballerina-dev@googlegroups.com</email>
-            <organization>WSO2</organization>
-            <organizationUrl>http://www.wso2.org/</organizationUrl>
-        </developer>
-    </developers>
+    <!--<developers>-->
+        <!--<developer>-->
+            <!--<name>Ballerina Developer</name>-->
+            <!--<email>ballerina-dev@googlegroups.com</email>-->
+            <!--<organization>WSO2</organization>-->
+            <!--<organizationUrl>http://www.wso2.org/</organizationUrl>-->
+        <!--</developer>-->
+    <!--</developers>-->
 
     <repositories>
         <repository>
@@ -118,12 +118,12 @@
         </snapshotRepository>
     </distributionManagement>
 
-    <mailingLists>
-        <mailingList>
-            <name>Ballerina Dev List</name>
-            <post>ballerina-dev@googlegroups.com</post>
-        </mailingList>
-    </mailingLists>
+    <!--<mailingLists>-->
+        <!--<mailingList>-->
+            <!--<name>Ballerina Dev List</name>-->
+            <!--<post>ballerina-dev@googlegroups.com</post>-->
+        <!--</mailingList>-->
+    <!--</mailingLists>-->
 
     <scm>
         <connection>scm:git:https://github.com/ballerinalang/ballerina-parent.git</connection>
